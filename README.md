@@ -35,7 +35,7 @@ minutemailer
 <img align="center" src="https://img.shields.io/badge/Java_Script-blue&?color=grey&logo=javascript&logoColor=F7DF1E" alt="Content Creator" /></a>
 </p>
 
-<h6 align="center">Current Project</h6>
+<h6 align="center">Current Projects</h6>
 <p align="center">
 <a href="#">
 <img align="center" src="https://img.shields.io/badge/Forex_Brokerage_Risk_Management_System:-60%25-blue&?color=009e22&logo=python&logoColor=F7DF1E" alt="Forex Brokerage Risk Management System" /></a>
