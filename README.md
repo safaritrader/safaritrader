@@ -5,7 +5,6 @@
 ## About Me
 
 - 🔭 I'm currently working in a Forex Brokerage at FRM position.
-minutemailer
 - Connect with me :
 
 <a href="mailto:info@global-fxs.com" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=grey&logo=minutemailer&logoColor=FFFFFF&label=" alt="safari trader"/></a>
